@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for help with technologies related to operating systems.
 - 💬 Ask me about Web Technology.
 - 📫 How to reach me: jack_by3#4261 Discord.
-- 😄 Pronouns: Error 44 No Found.
+- 😄 Pronouns: Jey🦝.
 - ⚡ Fun fact: I love raccoons but I'm allergic to animals.
 
