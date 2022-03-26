@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Jey🦝.
 - ⚡ Fun fact: I love raccoons but I'm allergic to animals.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackdelaguilavilla03)](https://github.com/jackdelaguilavilla03/github-readme-stats)
