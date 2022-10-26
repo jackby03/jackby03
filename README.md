@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web Technology.
 - 📫 How to reach me: jack_by3#4261 Discord.
 - 😄 Pronouns: Jey🦝.
-- ⚡ Fun fact: I love raccoons but I'm allergic to animals.
   
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackdelaguilavilla03&show_icons=true&theme=tokyonight)](https://github.com/jackdelaguilavilla03/github-readme-stats)
 
