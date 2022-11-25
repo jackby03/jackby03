@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackdelaguilavilla03&show_icons=true&theme=tokyonight)](https://github.com/jackdelaguilavilla03/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdelaguilavilla03&theme=tokyonight&hide=javascript,c#,dart,java,html,bash,shell,c,c++)](https://github.com/jackdelaguilavilla03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdelaguilavilla03&theme=tokyonight)](https://github.com/jackdelaguilavilla03/github-readme-stats)
   
 
 <h3 align="left">Languages and Tools:</h3>
