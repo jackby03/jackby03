@@ -17,11 +17,10 @@
 <br>
 
 - 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Web technology and Mobile Tech.
-- 👯 I’m looking to collaborate on Productive Apps.
+- 🌱 I’m currently learning Pentesting and Cybersecurity.
+- 👯 I’m looking to collaborate on Open Source Proyects.
 - 🤔 I'm looking for help with technologies related to operating systems.
-- 💬 Ask me about Web Technology.
-- 📫 How to reach me: jack_by3#4261 Discord.
+- 💬 Ask me about Hacking.
 - 😄 Pronouns: Jey🦝.
 
 <br>
