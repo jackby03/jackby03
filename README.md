@@ -11,8 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
 </p>
 
-## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicJ0yGAAPVwjvQfZn9US8e-tneGeVwl4vuIoR86fGw015SJe1_aOmfLTetQTkanq3r9AZuvvZMrAY6zX_9LsvVNwZwkoRfj-qCCU3Hy-bjIjPpcyejpkur4SFuYne8YfdnApzVo5XrCIyR/s1600/Hacker+goldfinger+3D+Animated+Gif+at+Hacker+Informer+Artful+3D+GIF+Animator+GIF+Animator+DDD+Ulead+GIF+Animator+websites+blogs+photo+graphics+clipart+the+attention+computer+program+free+download+.gif"></picture>
+## <picture><img src = "https://github.com/jackby03/jackby03/blob/main/assets/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="https://github.com/jackby03/jackby03/blob/main/assets/typing.gif"></picture>
 
 <br>
 
