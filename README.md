@@ -12,7 +12,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
+<picture> <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicJ0yGAAPVwjvQfZn9US8e-tneGeVwl4vuIoR86fGw015SJe1_aOmfLTetQTkanq3r9AZuvvZMrAY6zX_9LsvVNwZwkoRfj-qCCU3Hy-bjIjPpcyejpkur4SFuYne8YfdnApzVo5XrCIyR/s1600/Hacker+goldfinger+3D+Animated+Gif+at+Hacker+Informer+Artful+3D+GIF+Animator+GIF+Animator+DDD+Ulead+GIF+Animator+websites+blogs+photo+graphics+clipart+the+attention+computer+program+free+download+.gif"></picture>
 
 <br>
 
