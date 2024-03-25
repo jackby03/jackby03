@@ -1,6 +1,4 @@
 <h3 align="center">Hey there, I'm Jack</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
-
-![mapache](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 <!--
 **jackdelaguilavilla03/jackdelaguilavilla03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
