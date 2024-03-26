@@ -38,16 +38,16 @@
 
 # 📊 GitHub Stats:
   
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackdelaguilavilla03&show_icons=true&theme=tokyonight)](https://github.com/jackdelaguilavilla03/github-readme-stats)
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackby03&show_icons=true&theme=tokyonight)](https://github.com/jackby03/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdelaguilavilla03&theme=tokyonight)](https://github.com/jackdelaguilavilla03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackby03&theme=tokyonight)](https://github.com/jackby03/github-readme-stats)
   <br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jackdelaguilavilla03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=jackby03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
  
 <br>
