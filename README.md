@@ -28,9 +28,11 @@
 # :triangular_flag_on_post: CTF profiles:
 
 <div align="center">
- <a href="https://tryhackme.com/p/jackby03"><img src="https://tryhackme-badges.s3.amazonaws.com/jackby03.png" alt="TryHackMe"></a>
- <a href="https://app.hackthebox.com/profile/1529885"><img src="https://www.hackthebox.com/badge/image/1529885" alt="HackTheBox"></a>
- <a href="https://app.hackthebox.com/profile/1890610"><img src="https://www.hackthebox.com/badge/image/1890610" alt="HackTheBox"></a>
+     <a href="https://tryhackme.com/p/jackby03"><img src="https://tryhackme-badges.s3.amazonaws.com/jackby03.png" alt="TryHackMe"></a>
+     <a href="https://app.hackthebox.com/profile/1529885"><img src="https://www.hackthebox.com/badge/image/1529885" alt="HackTheBox"></a>
+     <a href="https://app.hackthebox.com/profile/1890610"><img src="https://www.hackthebox.com/badge/image/1890610" alt="HackTheBox"></a>
+     <a href="https://app.letsdefend.io/user/zoruz"><img src="https://app.letsdefend.io/images/common/ldlogo.png" alt="LetsDefend" style="max-width:100%;"></a>
+  </a>
 </div>
 
 <br>
