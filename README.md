@@ -38,18 +38,14 @@
 <br>
 
 # 📊 GitHub Stats:
-  
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackby03&show_icons=true&theme=tokyonight)](https://github.com/jackby03/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackby03&theme=tokyonight)](https://github.com/jackby03/github-readme-stats)
-  <br>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <br>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo & Roadmap
 ![](https://github-contributor-stats.vercel.app/api?username=jackby03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+[![roadmap.sh](https://roadmap.sh/card/wide/65712e745145316d25caab41?variant=dark)](https://roadmap.sh)
  
 <br>
 
