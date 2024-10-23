@@ -45,6 +45,8 @@
 ### 🔝 Top Contributed Repo & Roadmap
 ![](https://github-contributor-stats.vercel.app/api?username=jackby03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 [![roadmap.sh](https://roadmap.sh/card/wide/65712e745145316d25caab41?variant=dark)](https://roadmap.sh)
+
+<a href="https://app.daily.dev/jackby03"><img src="https://api.daily.dev/devcards/v2/oXUS4Eo6wqvYMdXsq6Qwm.png?r=eo9" width="356" alt="Andy Jack Del Aguila's Dev Card"/></a>
  
 <br>
 
