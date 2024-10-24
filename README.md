@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65712e745145316d25caab41?variant=dark" alt="roadmap.sh"/></a>
-  <a href="https://app.daily.dev/jackby03"><img src="https://api.daily.dev/devcards/v2/oXUS4Eo6wqvYMdXsq6Qwm.png?r=eo9" width="356" alt="Andy Jack Del Aguila's Dev Card"/></a>
+  <a href="https://app.daily.dev/jackby03"><img height=400 width=300 src="https://api.daily.dev/devcards/v2/oXUS4Eo6wqvYMdXsq6Qwm.png?r=eo9" width="356" alt="Andy Jack Del Aguila's Dev Card"/></a>
 </p>
 
 <br>
