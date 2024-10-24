@@ -1,69 +1,77 @@
-<h1 align="Center">
+<h1 align="center">
     <br>
-    Welcome to My Github Profile 
-  <br>
+    Welcome to My GitHub Profile 
+    <br>
 </h1>
 
-
-<h1 align="center"><b>Hi , I'm Jack </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Jack </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3">
+  </a>
 </p>
 
-## <picture><img src = "https://github.com/jackby03/jackby03/blob/main/assets/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/jackby03/jackby03/blob/main/assets/typing.gif"></picture>
+## <picture><img src="https://github.com/jackby03/jackby03/blob/main/assets/about_me.gif" width="50px"></picture> **About Me**
+<picture><img align="right" src="https://github.com/jackby03/jackby03/blob/main/assets/typing.gif"></picture>
 
 <br>
 
 - 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning Pentesting and Cybersecurity.
-- 👯 I’m looking to collaborate on Open Source Proyects.
+- 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I'm looking for help with technologies related to operating systems.
 - 💬 Ask me about Hacking.
 - 😄 Pronouns: Jey🦝.
 
 <br>
 
-# :triangular_flag_on_post: CTF profiles:
+# :triangular_flag_on_post: CTF Profiles:
 
 <div align="center">
-     <a href="https://tryhackme.com/p/jackby03"><img src="https://tryhackme-badges.s3.amazonaws.com/jackby03.png" alt="TryHackMe"></a>
-     <a href="https://app.hackthebox.com/profile/1529885"><img src="https://www.hackthebox.com/badge/image/1529885" alt="HackTheBox"></a>
-     <a href="https://app.hackthebox.com/profile/1890610"><img src="https://www.hackthebox.com/badge/image/1890610" alt="HackTheBox"></a>
-  </a>
+    <a href="https://tryhackme.com/p/jackby03">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/jackby03.png" alt="TryHackMe">
+    </a>
+    <a href="https://app.hackthebox.com/profile/1529885">
+        <img src="https://www.hackthebox.com/badge/image/1529885" alt="HackTheBox">
+    </a>
+    <a href="https://app.hackthebox.com/profile/1890610">
+        <img src="https://www.hackthebox.com/badge/image/1890610" alt="HackTheBox">
+    </a>
 </div>
 
 <br>
 
 # 📊 GitHub Stats:
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackby03&show_icons=true&theme=tokyonight)](https://github.com/jackby03/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackby03&theme=tokyonight)](https://github.com/jackby03/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/jackby03/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jackby03&show_icons=true&theme=tokyonight" alt="Jack's GitHub stats">
+  </a>
+</p>
+<p align="center">
+    <a href="https://github.com/jackby03/github-readme-stats">
+        <img src="https://github-contributor-stats.vercel.app/api?username=jackby03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Jack's GitHub stats">
+    </a>
+</p>
+<br>
+
+### 🔝 Top Contributed & Roadmap
+
+<p align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65712e745145316d25caab41?variant=dark" alt="roadmap.sh"/></a>
+  <a href="https://app.daily.dev/jackby03"><img src="https://api.daily.dev/devcards/v2/oXUS4Eo6wqvYMdXsq6Qwm.png?r=eo9" width="356" alt="Andy Jack Del Aguila's Dev Card"/></a>
+</p>
 
 <br>
 
-### 🔝 Top Contributed Repo & Roadmap
-![](https://github-contributor-stats.vercel.app/api?username=jackby03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-[![roadmap.sh](https://roadmap.sh/card/wide/65712e745145316d25caab41?variant=dark)](https://roadmap.sh)
-
-<a href="https://app.daily.dev/jackby03"><img src="https://api.daily.dev/devcards/v2/oXUS4Eo6wqvYMdXsq6Qwm.png?r=eo9" width="356" alt="Andy Jack Del Aguila's Dev Card"/></a>
- 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My GitHub Contribution </b>
 <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
-<br>
-
-
 
 <div align="center">
   <a href="https://github.com/MdAmiruddin/MdAmiruddin">
-  <img  src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg"
-       alt="snake" /></a>
+    <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="snake"/>
+  </a>
 </div>
-
-</a>
-</div>
-
 <br>
 
 
