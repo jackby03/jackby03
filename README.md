@@ -120,7 +120,7 @@ const jack = {
 <div align="center">
 
 ### 📱 **Professional Links**
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jackby03.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jackby03.com/projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jackby03)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackby03)
 
@@ -134,7 +134,7 @@ const jack = {
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jackby03)
 
 ### 🔗 **All Links in One Place**
-[![Bio Link](https://img.shields.io/badge/Bio_Link-00D4AA?style=for-the-badge&logo=linktree&logoColor=white)](https://jackby03.vercel.app/bio)
+[![Bio Link](https://img.shields.io/badge/Bio_Link-00D4AA?style=for-the-badge&logo=linktree&logoColor=white)](https://jackby03.com/bio)
 
 </div>
 
