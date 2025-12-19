@@ -140,33 +140,6 @@ const jack = {
 
 ---
 
-## 🎯 **Current Focus & Goals**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Jack Del Aguila))
-    Backend Development
-      Microservices
-      API Design
-      Database Optimization
-    Cloud Engineering
-      AWS Solutions
-      Containerization
-      Infrastructure as Code
-    Cybersecurity
-      Penetration Testing
-      Secure Development
-      Threat Analysis
-    Content Creation
-      Technical Blogs
-      YouTube Tutorials
-      Community Building
-```
-
-</div>
-
 ### 🌱 **Currently Learning**
 
 📚 Advanced Kubernetes orchestration  
@@ -201,18 +174,6 @@ mindmap
 🔧 **API Security Tools** - Custom penetration testing utilities  
 ☁️ **Cloud Infrastructure** - Terraform modules for AWS deployments  
 🤖 **Security Automation** - Scripts for vulnerability scanning
-
----
-
-## 📜 **Certifications & Learning Path**
-
-<div align="center">
-
-<a href="https://roadmap.sh/backend" target="_blank">
-    <img src="https://roadmap.sh/card/tall/65712e745145316d25caab41?variant=dark" alt="Backend Developer Roadmap" height="400"/>
-</a>
-
-</div>
 
 ---
 
