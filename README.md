@@ -140,6 +140,20 @@ const jack = {
 
 ---
 
+## ☕ **Support My Work**
+
+<div align="center">
+
+If you find my work helpful and want to support me, consider buying me a coffee! ☕
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jackby03)
+
+*Your support helps me create more content and contribute to open-source projects!* 💜
+
+</div>
+
+---
+
 ### 🌱 **Currently Learning**
 
 📚 Advanced Kubernetes orchestration  
