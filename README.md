@@ -104,16 +104,6 @@ const jack = {
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackby03&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🌐 **Connect With Me**
 
 <div align="center">
@@ -131,9 +121,7 @@ const jack = {
 ### ✍️ **Technical Writing**
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jackby03)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jackby03)
-
-### 🔗 **All Links in One Place**
-[![Bio Link](https://img.shields.io/badge/Bio_Link-00D4AA?style=for-the-badge&logo=linktree&logoColor=white)](https://jackby03.com/bio)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.jackby03.com)
 
 </div>
 
@@ -163,7 +151,7 @@ If you find my work helpful and want to support me, consider buying me a coffee!
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>⚡ WovenSnake</h3>
+        <h3>🐍 WovenSnake</h3>
         <a href="https://github.com/jackby03/wovensnake" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackby03&repo=wovensnake&theme=tokyonight&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc&text_color=a9b1d6&border_color=565f89&border_radius=10" alt="WovenSnake" />
         </a>
