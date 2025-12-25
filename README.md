@@ -153,7 +153,7 @@ If you find my work helpful and want to support me, consider buying me a coffee!
       <div align="center">
         <h3>🐍 WovenSnake</h3>
         <a href="https://github.com/jackby03/wovensnake" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackby03&repo=wovensnake&theme=tokyonight&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc&text_color=a9b1d6&border_color=565f89&border_radius=10" alt="WovenSnake" />
+          <img src="https://github.com/jackby03/wovensnake/blob/main/.github/assets/logo.png" alt="WovenSnake" height="150"/>
         </a>
         <p><em>⚡ A blazingly fast Python package manager written in Rust</em></p>
         <p>
@@ -170,7 +170,7 @@ If you find my work helpful and want to support me, consider buying me a coffee!
       <div align="center">
         <h3>✨ CraftzDog Vim</h3>
         <a href="https://github.com/jackby03/craftzdogVim" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackby03&repo=craftzdogVim&theme=tokyonight&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc&text_color=a9b1d6&border_color=565f89&border_radius=10" alt="CraftzDog Vim" />
+          <img src="https://github.com/jackby03/craftzdogVim/blob/main/img/Neovim.png" alt="CraftzDog Vim" height="150"/>
         </a>
         <p><em>🎨 A cozy and aesthetic Vim configuration inspired by Craftzdog</em></p>
         <p>
