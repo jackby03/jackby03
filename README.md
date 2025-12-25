@@ -104,16 +104,6 @@ const jack = {
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackby03&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🌐 **Connect With Me**
 
 <div align="center">
@@ -131,9 +121,7 @@ const jack = {
 ### ✍️ **Technical Writing**
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jackby03)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jackby03)
-
-### 🔗 **All Links in One Place**
-[![Bio Link](https://img.shields.io/badge/Bio_Link-00D4AA?style=for-the-badge&logo=linktree&logoColor=white)](https://jackby03.com/bio)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.jackby03.com)
 
 </div>
 
@@ -153,53 +141,55 @@ If you find my work helpful and want to support me, consider buying me a coffee!
 
 ---
 
-### 🌱 **Currently Learning**
-
-📚 Advanced Kubernetes orchestration  
-🛡️ Zero Trust Security Architecture  
-🤖 Machine Learning for Cybersecurity  
-🔍 Advanced Penetration Testing techniques  
-
-### 🎯 **2025 Goals**
-
-🏆 Achieve AWS Solutions Architect certification  
-📚 Publish technical articles on Medium & Dev.to  
-🎥 Create cybersecurity content on YouTube  
-🤝 Contribute to open-source security projects
-
----
-
-## 📈 **Activity & Contributions**
+## 💡 **Featured Projects**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackby03&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+### 🎯 **Pinned Repositories**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🐍 WovenSnake</h3>
+        <a href="https://github.com/jackby03/wovensnake" target="_blank">
+          <img src="https://github.com/jackby03/wovensnake/blob/main/.github/assets/logo.png" alt="WovenSnake" height="150"/>
+        </a>
+        <p><em>⚡ A blazingly fast Python package manager written in Rust</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Package_Manager-FF6B6B?style=flat-square&logoColor=white" alt="Package Manager" />
+        </p>
+        <a href="https://github.com/jackby03/wovensnake">
+          <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>✨ CraftzDog Vim</h3>
+        <a href="https://github.com/jackby03/craftzdogVim" target="_blank">
+          <img src="https://github.com/jackby03/craftzdogVim/blob/main/img/Neovim.png" alt="CraftzDog Vim" height="150"/>
+        </a>
+        <p><em>🎨 A cozy and aesthetic Vim configuration inspired by Craftzdog</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
+          <img src="https://img.shields.io/badge/Config-563D7C?style=flat-square&logoColor=white" alt="Config" />
+        </p>
+        <a href="https://github.com/jackby03/craftzdogVim">
+          <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+*✨ Crafted with care and attention to detail ✨*
 
 </div>
-
----
-
-## 💡 **Featured Projects**
-
-### 🚀 **Recent Work**
-
-🌐 **Personal Portfolio** - Modern Next.js website with dark theme  
-🔧 **API Security Tools** - Custom penetration testing utilities  
-☁️ **Cloud Infrastructure** - Terraform modules for AWS deployments  
-🤖 **Security Automation** - Scripts for vulnerability scanning
-
----
-
-## 💬 **Let's Collaborate!**
-
-*"Always open to interesting projects and learning opportunities"*
-
-**Currently available for:**
-
-💼 Backend development projects  
-☁️ Cloud architecture consulting  
-🔒 Security assessments  
-👨‍🏫 Technical mentoring  
 
 ---
 
