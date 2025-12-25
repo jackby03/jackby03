@@ -153,53 +153,54 @@ If you find my work helpful and want to support me, consider buying me a coffee!
 
 ---
 
-### 🌱 **Currently Learning**
-
-📚 Advanced Kubernetes orchestration  
-🛡️ Zero Trust Security Architecture  
-🤖 Machine Learning for Cybersecurity  
-🔍 Advanced Penetration Testing techniques  
-
-### 🎯 **2025 Goals**
-
-🏆 Achieve AWS Solutions Architect certification  
-📚 Publish technical articles on Medium & Dev.to  
-🎥 Create cybersecurity content on YouTube  
-🤝 Contribute to open-source security projects
-
----
-
-## 📈 **Activity & Contributions**
+## 💡 **Featured Projects**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackby03&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+### 🎯 **Pinned Repositories**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🐍 WovenSnake</h3>
+        <a href="https://github.com/jackby03/wovensnake" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackby03&repo=wovensnake&theme=tokyonight&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc&text_color=a9b1d6&border_color=565f89&border_radius=10" alt="WovenSnake" />
+        </a>
+        <p><em>🎮 A classic Snake game reimagined with modern aesthetics</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Game-5A67D8?style=flat-square&logoColor=white" alt="Game" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        </p>
+        <a href="https://github.com/jackby03/wovensnake">
+          <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>✨ CraftzDog Vim</h3>
+        <a href="https://github.com/jackby03/craftzdogVim" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackby03&repo=craftzdogVim&theme=tokyonight&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc&text_color=a9b1d6&border_color=565f89&border_radius=10" alt="CraftzDog Vim" />
+        </a>
+        <p><em>🎨 A cozy and aesthetic Vim configuration inspired by Craftzdog</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
+          <img src="https://img.shields.io/badge/Config-563D7C?style=flat-square&logoColor=white" alt="Config" />
+        </p>
+        <a href="https://github.com/jackby03/craftzdogVim">
+          <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+*✨ Crafted with care and attention to detail ✨*
 
 </div>
-
----
-
-## 💡 **Featured Projects**
-
-### 🚀 **Recent Work**
-
-🌐 **Personal Portfolio** - Modern Next.js website with dark theme  
-🔧 **API Security Tools** - Custom penetration testing utilities  
-☁️ **Cloud Infrastructure** - Terraform modules for AWS deployments  
-🤖 **Security Automation** - Scripts for vulnerability scanning
-
----
-
-## 💬 **Let's Collaborate!**
-
-*"Always open to interesting projects and learning opportunities"*
-
-**Currently available for:**
-
-💼 Backend development projects  
-☁️ Cloud architecture consulting  
-🔒 Security assessments  
-👨‍🏫 Technical mentoring  
 
 ---
 
