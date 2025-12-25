@@ -163,14 +163,15 @@ If you find my work helpful and want to support me, consider buying me a coffee!
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🐍 WovenSnake</h3>
+        <h3>⚡ WovenSnake</h3>
         <a href="https://github.com/jackby03/wovensnake" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackby03&repo=wovensnake&theme=tokyonight&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc&text_color=a9b1d6&border_color=565f89&border_radius=10" alt="WovenSnake" />
         </a>
-        <p><em>🎮 A classic Snake game reimagined with modern aesthetics</em></p>
+        <p><em>⚡ A blazingly fast Python package manager written in Rust</em></p>
         <p>
-          <img src="https://img.shields.io/badge/Game-5A67D8?style=flat-square&logoColor=white" alt="Game" />
+          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Package_Manager-FF6B6B?style=flat-square&logoColor=white" alt="Package Manager" />
         </p>
         <a href="https://github.com/jackby03/wovensnake">
           <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
