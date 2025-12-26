@@ -24,7 +24,7 @@ const jack = {
 
 ## 🚀 **What I Do**
 
-<img align="right" alt="Coding" width="400" src="https://github.com/jackby03/jackby03/blob/main/assets/typing.gif">
+<img align="right" alt="Coding" width="280" src="https://github.com/jackby03/jackby03/blob/main/assets/typing.gif">
 
 🔧 **Backend Engineering** - Building robust, scalable server-side applications  
 ☁️ **Cloud Architecture** - Designing cloud-native solutions with AWS, GCP  
@@ -32,15 +32,6 @@ const jack = {
 🏗️ **DevOps** - CI/CD pipelines, containerization, and infrastructure automation  
 📱 **API Development** - RESTful services and microservices architecture  
 🛡️ **Penetration Testing** - Ethical hacking and vulnerability assessment  
-
-
-
-## 💼 **Professional Experience**
-
-**4+ Years** in Software Development  
-**Backend Specialist** with expertise in distributed systems  
-**Cloud-Native** application development  
-**Security-First** approach to software design
 
 ---
 
@@ -94,14 +85,6 @@ const jack = {
 
 </div>
 
-### 🎯 **Cybersecurity Focus Areas**
-
-🔍 **Penetration Testing** & Vulnerability Assessment  
-🌐 **Web Application Security** (OWASP Top 10)  
-🛡️ **Network Security** & Infrastructure Hardening  
-☁️ **Cloud Security** Best Practices  
-🔎 **Secure Code Review** & SAST/DAST
-
 ---
 
 ## 🌐 **Connect With Me**
@@ -131,11 +114,12 @@ const jack = {
 
 <div align="center">
 
-If you find my work helpful and want to support me, consider buying me a coffee! ☕
+✨ If you enjoy my projects and want to help me keep building, consider supporting my work! ✨  
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jackby03)
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/jackby03)
 
-*Your support helps me create more content and contribute to open-source projects!* 💜
+💜 Every contribution fuels more content, open-source projects, and community-driven innovation.  
 
 </div>
 
