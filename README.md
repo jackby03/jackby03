@@ -109,12 +109,17 @@ const jack = {
 
 <div align="center">
 
+
+💜 Every contribution fuels more content, open-source projects, and community-driven innovation.
+
+<a href="https://ko-fi.com/jackby03">
+    <img src="https://github.com/jackby03/jackby03/blob/main/assets/kofi-banner.jpg" alt="Banner Ko-fi" width="300" />
+</a>
+
 ✨ If you enjoy my projects and want to help me keep building, consider supporting my work! ✨  
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jackby03)
 [![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/jackby03)
-
-💜 Every contribution fuels more content, open-source projects, and community-driven innovation.  
 
 </div>
 
