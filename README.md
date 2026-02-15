@@ -28,12 +28,9 @@ const jack = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <div align="center">
         <h3>🐍 WovenSnake</h3>
-        <a href="https://github.com/jackby03/wovensnake" target="_blank">
-          <img src="https://github.com/jackby03/wovensnake/blob/main/.github/assets/logo.png" alt="WovenSnake" height="150"/>
-        </a>
         <p><em>⚡ A blazingly fast Python package manager written in Rust</em></p>
         <p>
           <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -45,12 +42,9 @@ const jack = {
         </a>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <div align="center">
         <h3>✨ CraftzDog Vim</h3>
-        <a href="https://github.com/jackby03/craftzdogVim" target="_blank">
-          <img src="https://github.com/jackby03/craftzdogVim/blob/main/img/Neovim.png" alt="CraftzDog Vim" height="150"/>
-        </a>
         <p><em>🎨 A cozy and aesthetic Vim configuration inspired by Craftzdog</em></p>
         <p>
           <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
@@ -61,26 +55,26 @@ const jack = {
         </a>
       </div>
     </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📈 Omnijure</h3>
+        <p><em>🤖 AI-powered Trading Development Studio with charts, bots, scripting, and real-time order books</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+          <img src="https://img.shields.io/badge/AI-Trading-0A0A0A?style=flat-square&logo=ai&logoColor=white" alt="AI Trading" />
+          <img src="https://img.shields.io/badge/Cloudjure-FF6B6B?style=flat-square&logoColor=white" alt="Cloudjure" />
+        </p>
+        <a href="https://github.com/jackby03/omnijure-trading-platform">
+          <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
 
 <br/>
 
 *✨ Crafted with care and attention to detail ✨*
-
-</div>
-
-## 🏆 **CTF & Security Platforms**
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/jackby03" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/jackby03.png" alt="TryHackMe" height="100">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://app.hackthebox.com/profile/1529885" target="_blank">
-    <img src="https://www.hackthebox.com/badge/image/1529885" alt="HackTheBox" height="100">
-</a>
 
 </div>
 
@@ -108,14 +102,12 @@ const jack = {
 
 💜 Every contribution fuels more content, open-source projects, and community-driven innovation.
 
-<a href="https://ko-fi.com/jackby03">
-    <img src="https://github.com/jackby03/jackby03/blob/main/assets/kofi-banner.jpg" alt="Banner Ko-fi" width="300" />
-</a>
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jackby03)
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/jackby03)
 
 ✨ If you enjoy my projects and want to help me keep building, consider supporting my work! ✨  
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jackby03)
-[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/jackby03)
+
 
 </div>
 
