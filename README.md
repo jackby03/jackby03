@@ -28,7 +28,7 @@ const jack = {
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <div align="center">
         <h3>🐍 WovenSnake</h3>
         <p><em>⚡ A blazingly fast Python package manager written in Rust</em></p>
@@ -42,20 +42,7 @@ const jack = {
         </a>
       </div>
     </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <h3>✨ CraftzDog Vim</h3>
-        <p><em>🎨 A cozy and aesthetic Vim configuration inspired by Craftzdog</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
-          <img src="https://img.shields.io/badge/Config-563D7C?style=flat-square&logoColor=white" alt="Config" />
-        </p>
-        <a href="https://github.com/jackby03/craftzdogVim">
-          <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </div>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <div align="center">
         <h3>📈 Omnijure</h3>
         <p><em>🤖 AI-powered Trading Development Studio with charts, bots, scripting, and real-time order books</em></p>
@@ -65,6 +52,36 @@ const jack = {
           <img src="https://img.shields.io/badge/Cloudjure-FF6B6B?style=flat-square&logoColor=white" alt="Cloudjure" />
         </p>
         <a href="https://github.com/jackby03/omnijure-trading-platform">
+          <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🔒 HardBox</h3>
+        <p><em>🛡️ Open-source TUI-driven Linux server hardening toolkit with CIS, STIG, PCI-DSS, HIPAA & NIST 800-53 compliance</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+          <img src="https://img.shields.io/badge/Security-FF6B6B?style=flat-square&logoColor=white" alt="Security" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        </p>
+        <a href="https://github.com/jackby03/hardbox">
+          <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🤝 Agentic Collaboration Standard</h3>
+        <p><em>📋 A unified open format for agent-ready projects across tools, teams, and platforms</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/AI_Agents-0A0A0A?style=flat-square&logoColor=white" alt="AI Agents" />
+          <img src="https://img.shields.io/badge/Open_Standard-563D7C?style=flat-square&logoColor=white" alt="Open Standard" />
+        </p>
+        <a href="https://github.com/jackby03/agentic-collaboration-standard">
           <img src="https://img.shields.io/badge/View_Project-BB86FC?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
       </div>
